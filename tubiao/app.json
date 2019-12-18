@@ -1,0 +1,17 @@
+{
+  "pages": [
+    
+    "pages/start/start",
+    "pages/pic/pic",
+    "pages/wifi_station/tianqi/tianqi"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "妈妈！我尿裤子了！",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": false,
+  "sitemapLocation": "sitemap.json"
+}
